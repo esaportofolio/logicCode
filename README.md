@@ -1,5 +1,5 @@
 # logicCode-java
-practice code repo with java language
+Practice simple code skills
 
 Referensi belajar :
 1. https://www.duniailkom.com/tutorial-belajar-java-cara-menjalankan-kode-program-java-proses-compile/

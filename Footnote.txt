@@ -1,2 +1,13 @@
 Learning References : 
 https://www.geeksforgeeks.org/
+
+Steps in Problem Solving :
+Steps 1:
+Understand the problem
+Steps 2:
+Design the solutions
+Steps 3:
+Write your program (and Tests)
+Express your Solution : Language Specifics (Syntax)
+
+

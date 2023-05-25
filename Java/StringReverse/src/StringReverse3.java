@@ -19,6 +19,8 @@ public class StringReverse3 {
 		System.out.println("Please Input Something : ");
 		//nextLine means that the scanner will continue read everything until the next line / enter pressed and it will return skipped line
 		usrIpt = keyboard.nextLine();
+		//close scanner
+		keyboard.close();
 		
 		//reference link : https://www.geeksforgeeks.org/stringbuilder-class-in-java-with-examples/
 		StringBuilder usrIpt1 = new StringBuilder();

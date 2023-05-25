@@ -1,0 +1,39 @@
+In28Minutes Official - Udemy
+
+JShell 
+The Java Shell tool (JShell) is an interactive tool for learning the Java programming language and prototyping Java code.
+Principal :
+- Java REPL (Read Eval Print Loop)
+- Type in a one line of code and see the output
+- To start enter "jshell" and to exit enter : "/exit"
+Statements
+Expressions
+Variables
+Literals
+If Statement
+For Loop
+
+Section 3 - Step 03
+Breakdown the problems :
+- Calculate the 5 * X
+- Print 5 * X
+- Do this 10 Times
+Section 3 - Step 04
+Java Expression -> Contains Operands and Operator
+5 and X is an Operands
+* is an Operator
+Section 3 - Step 05
+- Calculate number of minute in a day
+  you can break it down by having 24 hours in a day, 60 minutes in a hours and multiple it
+  jshell : 24 * 60 = 1440
+- Calculate number of seconds in a day
+  you can break it down by having 24 hours in a day, 60 minutes in a hours, and 60 seconds per minute and multiple it
+  jshell : 24 * 60 * 60 = 86400
+Section 3 - Step 06
+5.0 is an decimal number
+Section 3 - Step 07
+Coding adalah manipulasi data,
+jadi misalkan kita masukkan 3*4 maka akan menghasilkan 12
+tapi 12 adalah nilai buffer, butuh command untuk melakukan pengolahan pada datanya,
+contoh untuk menampilkan dsb.
+

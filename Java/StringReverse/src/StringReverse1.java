@@ -35,6 +35,8 @@ public class StringReverse1 {
 		System.out.println("Input User");
 		//nextLine means that the scanner will continue read everything until the next line / enter pressed and it will return skipped line
 		usrIpt = keyboard.nextLine();
+		//close scanner
+		keyboard.close();
 		//show output to the user
 		System.out.println("Inputan User adalah : " +usrIpt);
 		

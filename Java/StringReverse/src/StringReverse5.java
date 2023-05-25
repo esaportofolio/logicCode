@@ -25,7 +25,10 @@ public class StringReverse5 {
 		System.out.println("Please Input Something : ");
 		//nextLine means that the scanner will continue read everything until the next line / enter pressed and it will return skipped line
 		usrIpt = keyboard.nextLine();
+		//close scanner
+		keyboard.close();
 		
+		//https://www.geeksforgeeks.org/java-string-tochararray-example/
 		char[] tmpAry = usrIpt.toCharArray();
 		int kiri, kanan =0;
 		kanan = tmpAry.length - 1;
@@ -40,6 +43,7 @@ public class StringReverse5 {
 		}
 		
 		for (char c : tmpAry)
+			//https://www.geeksforgeeks.org/difference-between-print-and-println-in-java/
 			System.out.print(c);
 			System.out.println();
 	}

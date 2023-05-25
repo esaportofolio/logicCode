@@ -24,6 +24,8 @@ public class StringReverse2 {
 		System.out.println("Please Input Something : ");
 		//nextLine means that the scanner will continue read everything until the next line / enter pressed and it will return skipped line
 		usrIpt = keyboard.nextLine();
+		//close scanner
+		keyboard.close();
 		
 		//getBytes() method to convert string into byte[].
 		/*

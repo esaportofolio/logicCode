@@ -11,7 +11,7 @@ import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
 	// HR Title : Java Loops I
-public class HRPreparation5 {
+public class MultiplicationTable {
     //throws IO exception is an exception that is thrown when an I/O error occurs
 	public static void main(String[] args) throws IOException {
         //on this code, we will try to use different method, such as buffered reader and learn the different of it comparing to scanner
